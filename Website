@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>PRo</title>
+    </head>
+    <body style="background-color:LightBlue">
+       <b> <h1 style="color:balck;font-size:44x;font-family:cursive">Imran Talukdar Group</h1></b><br/>
+
+       <details>
+        <summary>About</summary>
+        <p style="color:Black;font-family:cursive">Imran Talukdar Group is One of the leading group in the country.
+            We produce many kind of product.Also we have a IT company .There many intelegent programmer work
+            Thank you for visiting us</p><br/>
+            </details>
+            <details>
+                <summary>Our Product</summary>
+               <pre> <i><p>
+                
+                           1.Dringking Water
+                           2.Suger
+                           3.Softower development
+                           4.Bus sarvice
+                           </p></i></pre><br/>
+                           </details>
+                           <details>
+                            <summary>Company Infromation</summary>
+                            <p>
+                                <details>
+                                <summary>Charman & CEO</summary>
+                                <p>MD.Imran Hasan Talukdar</p></details>
+                                <details>
+                                <summary>CTO</summary>
+                                <p>MD.Shafiqul Talukdar</p>
+                                </details>
+                            </p>
+                            </details>
+                            <details>
+                                <summary>Location</summary>
+                                <p> Kumargati,Boalia bazar,Ullapara,Sirajgong</p>
+                                </details>
+                                <details>
+                                    <summary>History</summary>
+                                    <b><p>In the year of 2030 MD.Imran Talukdar and His Father MD.Shafiqul Islam make e lillte company .They just make Drinking Water.At the year of 2035 Sir Imran decided to invest more and he make some other company . Now this company is a leading company in the country .Also We export Our Product in many country.</p>
+                                    </b></details>
+                                    <details>
+                                        <summary>Phone US</summary>
+                                        <p>01870631933</p><br/>
+
+                                        <p>01710795011</p><br/>
+                                        </details>
+</body>
+</html>
+
+                                  <h2 style="color:blue; font-family:Tahoma">Thank you For Visiting us</h2>
+
+                           </body>
+                           </html>
