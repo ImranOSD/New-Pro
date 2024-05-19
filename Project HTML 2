@@ -1,0 +1,102 @@
+<html>
+
+<head>
+    <title>Another One</title>
+
+</head>
+
+<body style="background-color:orange">
+    <h1 style="color:Red;font-size:50x;font-family:cursive">Orbit Softower Company</h1><br />
+    <i>
+        <p>The New era Of Future</p>
+    </i><br />
+
+    <details>
+        <summary>About</summary>
+        <p style="color:black;font-family:gill sans">Orbit Softower Company is one of the leading company in
+            the country.Here We solve your Every type of softower related problems.stay with us ,we will give you a
+            better option.</p><br />
+    </details>
+    <details>
+        <summary>Our service</summary>
+        <p style="color:rgb(78, 75, 58);">Website making</p><br />
+        <p style="color:rgb(63, 61, 47);">Website Development</p><br />
+        <p style="color:rgb(27, 27, 25);">Game Development</p><br />
+        <p style="color:rgb(34, 33, 30);">Sarver maintaining</p>
+    </details>
+
+    <details>
+        <summary>Career</summary>
+        <p>For Any Job oportunity we will add notice in here</p>
+    </details>
+
+    <details>
+        <summary>Media</summary>
+        <p>1.Company news<br />
+            2.Events<br />
+            3.Images<br />
+            4.Live<br />
+        </p>
+    </details>
+    <details>
+        <summary>Company Info</summary>
+        <p>
+            <details>
+                <summary>Charman</summary>
+                <p>MD.Imran Hasan</p>
+                </details>
+                <details>
+                    <summary>CEO</summary>
+                    <p>MD.Shafiqul Islam</p>
+                    </details>
+                    <details>
+                        <summary>MD</summary>
+                        <p>Mst.Aysha Siddika</p>
+                        </details>
+                        </p>
+                        </details>
+
+                        <details>
+                            <summary>Subcitary</summary>
+                            <p>1.Orbit Fashon<br/>
+                               2.Orbit Drinking Water<br/>
+                               3.Orbit Motors<br/>
+                               4.Orbit pharma<br/>
+                               5.Orbit Mobile<br/>
+                               </p>
+                               </details>
+                                <details>
+                                    <summary>Appointment Form</summary>
+                                    <div class="appointment-form-container">
+                                        <h2>Book an Appointment</h2>
+                                        <from id="appointment-form">
+                                            <label for="name">Name:</label>
+                                            <input type="text" id="name" name="name" required><br/>
+                                            <label for="email">Email:</label>
+                                            <input type="email" id="email" name="email" required><br/>
+                                            <label for="phone">Phone Number:</label>
+                                            <input type="tel" id="phone" name="phone" required><br/>
+                                            <label for="date">Date:</label>
+                                            <input type="date" id="date" name="date" required><br/>
+                                            <label for="time">Time:</label>
+                                            <input type="time" id="time" name="time" required><br/>
+
+                                            <label for="message">Message:</label>
+                                            <textarea id="message" name="message"></textarea><br/>
+                                            <button type="submit">Book Application</button>
+                                            </from>
+                                            </div>
+                                            </details>
+
+                                            <b><h3 style="color:darkred;font-size:40x;font-family:cursive"> Orbit Group</h3>
+                                                </b>
+                                                <h4 style="color:lightblue">Corporate Location</h4><br/>
+                                                <p>Ullapara, sirajgong</p>
+
+
+                                                <h5 style="color: darkgreen;font-size:55x">Think you for visiting us</h5>
+
+</body>
+
+</html>
+imran
