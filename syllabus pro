@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>Prime</title>
+        </head>
+        <body style="background-color:grey">
+            <h1 style="color:blue">Prime University</h1>
+            <h2 style="color:lightskyblue">Midterm Syllabus</h2>
+            <ol>
+                <details>
+                    <summary style="color:lightblue">OOP(C++)</summary>
+                    <li>Inheritance</li>
+                    <li>Polymorpjism</li>
+                    <li>Exception Handling</li>
+                    </details>
+                    <details>
+                        <summary style="color:lightblue">Algorithm</summary>
+                        <li>Inseartion sort,Marge sort,Selection sort</li>
+                        <li>Tree Travertion,DFS,VFS</li>
+                        <li>Spanning Tree</li>
+                        </details>
+                        <details>
+                            <summary style="color:lightblue">Math</summary>
+                            <li>Rectangular Coordinates</li>
+                            <li>The Plane</li>
+                            <li>Vector</li>
+                            </details>
+                            <details>
+                                <summary style="color:lightblue">Digital Electronice</summary>
+                                <li>Combinational logic circuit</li>
+                                <li>Adder</li>
+                                <li>Karnaugh Map(K map)</li>
+                                <li>Block and circuit Diagram</li>
+                            
+                            </details>
+                            </ol>
+
+                            <h3 style="color:lightskyblue">Additional Subject Syllabus</h3>
+                            <ol>
+
+                            <details>
+                                <summary style="color:lightblue">Physics</summary>
+                                <li>Electrostate</li>
+                                <li>Elasticity</li>
+                                <li>Gravity and Gravitation</li>
+                                </details>
+                                <details>
+                                    <summary style="color:lightblue">Bangladesh studys</summary>
+                                    <li>Climate Education</li>
+                                    <li>Foregin Policy</li>
+                                    <li>Legislative responsibility of the memmber of Jatiya Shangsad</li>
+                                    <li>Good Governace</li>
+                                    <li>Contribution of our rivers in the country</li>
+                                    <li>Globalistaion and Bangladesh</li>
+                                    </details>
+                                    <h4 style="color:red;font-family:curisve">Best of Luck for the exam students</h4>
+                                    </ol>
+                                    <h5 style="color:Black;font-family:monosapce">Coordinator &nbsp; Md:Imran Hasan &nbsp; ID:1001</h5>
+                                
+                                    </body>
+                                    </html>
