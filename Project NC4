@@ -1,0 +1,163 @@
+<html>
+
+<head>
+    <title>Imran</title>
+</head>
+
+<body style="background-color:lightblue">
+    <h1 style="color:crimson;font-size:75x;font-family:Arial">Talukdar Motors</h1>
+    <ol>
+        <details>
+            <summary>Who We Are</summary>
+            <p>Talukdar motors in one of the leading car and bike making company based on Bangladesh.We make your dream
+                car and bike</p>
+        </details>
+        &nbsp;
+        <details>
+            <summary>Our Product</summary>
+            <details>
+                <summary>Car Model</summary>
+                <details>
+
+                    <summary>TR-09</summary>
+
+                    <p>R-09 is the first car model of the company.It is a Sadan 4 siter Front engine Hybrite car.Company
+                        produce only 100 units of this model
+
+                </details>
+                <details>
+                    <summary>TR-10</summary>
+                    <p>TR-10 is Most selling SUV car in this company.It is a popular model 4 weeler all round car.Now
+                        the
+                        company sell avobe 10k+.It has many function that's Why Customer love this model</p>
+                </details>
+                <details>
+                    <summary>TR-12 v12</summary>
+                    <p>The TR-12 v12 is a sport's car .It is Also best selling car . This model run 0 to 100 only 2.34
+                        sec.Company sell over 6k car.</p>
+                </details>
+
+
+            </details>
+            <details>
+                <summary>Bike Model</summary>
+                <details>
+                    <summary>TR-Novac</summary>
+                    <p>TR-Novac is one of the cool super bike in the world.It has many interesting Options.This 1000cc
+                        bike
+                        top speed.
+                        300 Kmph.Also got 0-100 in just 3.55 sec.Company sell avarage 15k+ in the model.</p>
+                </details>
+                <details>
+                    <summary>TR-Octo</summary>
+                    <p>TR-Octo is a casual bike.This bike came to the market with 150cc Engine.It is the populer bike
+                        model . Company average 50k+ sells in all over the country.</p>
+                </details>
+            </details>
+        </details>
+        &nbsp;
+        <details>
+            <summary>About</summary>
+            <p>Talukdar Motors is Created on 2030 by the hand of Imran Hasan Talukdar .Imran Talukdar is One of the
+                great ideal and intaligent Man.He is the Founder of Talukdar Fundation.
+            </p>
+            <details>
+                <summary>Chairman & CEO</summary>
+                <p>MD.Imran Hasan Talukdar</p>
+            </details>
+            <details>
+                <summary>Managing Director</summary>
+                <p>MD.Shafiqul Islam Talukdar</p>
+            </details>
+        </details>
+        &nbsp;
+        <details>
+            <summary>Our Main Showroom</summary>
+            <details>
+                <summary>Dhaka</summary>
+                <p>Dhanmondi - &nbsp; - Uttara &nbsp;- Gulshan &nbsp;- Mirpur-12</p>
+            </details>
+            <details>
+                <summary>Chittagong</summary>
+                <p>Bahaddarhat</p>
+            </details>
+            <details>
+                <summary>Rajshahi</summary>
+                <p>Batarmor</p>
+            </details>
+            <details>
+                <summary>sylhet</summary>
+                <p>Jalalabad</p>
+            </details>
+            <details>
+                <summary>Rangpur</summary>
+                <p>Rangpur Main city</p>
+            </details>
+            <details>
+                <summary>Mymensingh</summary>
+                <p>Kistopur</p>
+            </details>
+            <details>
+                <summary>Khulna</summary>
+                <p>DasPara</p>
+            </details>
+            <details>
+                <summary>Barishal</summary>
+                <p>Notullabad Bazar</p>
+            </details>
+        </details>
+        &nbsp;
+        <details>
+            <summary>Careers</summary>
+            <details>
+                <summary>Appointment Form</summary>
+                <div class="appointment-form-container">
+                    <h2>Book an Appointment</h2>
+                    <from id="appointment-form">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required><br />
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required><br />
+                        <label for="phone">Phone Number:</label>
+                        <input type="tel" id="phone" name="phone" required><br />
+                        <label for="date">Date:</label>
+                        <input type="date" id="date" name="date" required><br />
+                        <label for="time">Time:</label>
+                        <input type="time" id="time" name="time" required><br />
+
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message"></textarea><br />
+                        <button type="submit">Book Application</button>
+                    </from>
+                </div>
+            </details>
+        </details>
+
+        <h2 style="color:chocolate;font-family:cachin">Log in</h2>
+        <form action="login_scritp.php" method="post">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <lable for="password">password:</lable>
+            <input type="password" id="password" name="password"><br><br>
+            <input type="submit" value="login">
+        </form>
+        <a href="https://www.facebook.com/profile.php?id=100069514873526" target="_blank">
+            <img src="path/to/facebook.svg" alt="Facebook Icon">
+        </a>
+
+    </ol>
+
+    <i><u>
+            <h3 style="color:rgb(17, 0, 252)">Thank you for visiting Us.God Blass you </h3>
+        </u></i>
+
+
+    &copy;Copyright 2024 Talukdar Motors.
+    <pre>
+    &copy; creator:Imran Hasan
+                   Softower Engineear/Developer
+                  Bsc in cse:Prime University
+                  </pre>
+</body>
+
+</html>
