@@ -1,0 +1,380 @@
+//It's make only for Practice//
+<html>
+
+<head>
+    <title>Another One</title>
+</head>
+
+<body style="background-color:lightblue">
+    <h1 style="colo">ঢাকা রেসিডেন্সিয়াল মডেল কলেজ</h1>
+    <h2>Dhaka Residential Model College</h2>
+    <h3>Since 1960</h3>
+    <details>
+        <summary>Home</summary>
+        <details>
+            <summary>All Notice</summary>
+            <p>College Well Close for the Eid Ul Azha in 12 June to 21 June</p>
+        </details>
+        <details>
+            <summary>Photo Gallery</summary>
+            <p>For Every Events We will post all photo in here.</p>
+        </details>
+        <details>
+            <summary>Video Gallery</summary>
+            <p>We will post the Official DRMC Video in here .</p>
+        </details>
+    </details>
+    &nbsp;
+    <details>
+        <summary>About</summary>
+        <details>
+            <summary>About Us</summary>
+            <p>The Dhaka Residential Model College (DRMC as its acronym) is an abode of academic excellence offering a
+                congenial
+                educational environment where the young learners not only study properly but also learn good manners and
+                etiquettes to
+                become good human beings with refined tastes. Spreading over 52 acres of land in its present premises of
+                Mohammadpur,
+                this unique institution came into being in the year 1960 with the name of Dhaka Residential Model School
+                as modelled on
+                the famous public school of England, particularly similar to Eton College in order to provide education
+                for the children
+                of the army officers. Though the college wing had been launched in 1967, the institution was renamed as
+                Dhaka
+                Residential Model College much later in 1984.</p>
+        </details>
+        <details>
+            <summary>Mission & Vision</summary>
+            <p>যুগোপযোগী শিক্ষা ও সহপাঠ্যক্রমিক কার্যক্রমের মাধ্যমে শিক্ষার্থীদের শারীরিক, মানসিক ও নৈতিক গুণাবলির সুষম
+                বিকাশ সাধন এবং
+                প্রত্যেক শিক্ষার্থীকে বৃহত্তর কর্মজীবন ও জাতীয় জীবনের বিভিন্ন ক্ষেত্রে নেতৃত্বদানের উপযোগী সুনাগরিক
+                হিসেবে গড়ে তোলা এ
+                প্রতিষ্ঠানের লক্ষ্য। প্রতিষ্ঠানটির মূলমন্ত্র হল-‘শিক্ষা, শৃঙ্খলা, চরিত্র, দেশপ্রেম ও সেবা’।</p>
+        </details>
+    </details>
+    &nbsp;
+    <details>
+        <summary>Addministration</summary>
+        <details>
+            <summary>Rules</summary>
+            <p>ক) কোনো আবাসিক ছাত্র হাউসে আসার সময় মূল্যবান দ্রব্যাদি যেমন-রেডিও, টিভি, কম্পিউটার, মোবাইল ফোন, সোনার
+                আংটি, দামি ঘড়ি
+                অথবা নগদ টাকা আনতে পারবে না। ----
+
+
+
+                খ) কলেজ কর্তৃক অনুমোদিত পোশাক ছাড়া কোনো প্রকার রঙিন পোশাক আনতে পারবে না। লুঙ্গি ব্যবহার অনুমোদন করা হয়
+                না, পক্ষান্তরে
+                ঘুমানোর পোশাক ব্যবহার করতে পারবে।----
+
+
+
+                গ) সুতি বা টেট্রনের পোশাক আনতে হবে। কিন্তু সিল্ক বা অনুরূপ দামি পোশাক আনা যাবে না।----
+
+
+
+                ঘ) প্যান্টের ঘের অসঙ্গতিপূর্ণ হতে পারবে না। বড়দের জন্য অনুমোদিত ঘেরের পরিমাণ হচ্ছে ২'০'' । প্যান্টের
+                সোজা কাটিং হতে হবে।
+                ফ্যান্সি ডিজাইন ব্যবহার করা যাবে না।----
+
+
+
+
+                প্রয়োজনীয় নির্দেশাবলি :
+
+
+
+                আবাসিক ছাত্রদের পোশাকে সংক্ষিপ্ত নাম ও কলেজ নম্বর অংকিত থাকতে হবে। এরূপ চিহ্নহীন পোশাক হারালে কলেজ
+                কর্তৃপক্ষ দায়ী হবে
+                না। অভিভাবকগণ তাঁদের পুত্র/ প্রতিপাল্যের পোশাকের তিন কপি তালিকা প্রস্তুত করবেন। অভিভাবকগণ এক কপি নিজের
+                নিকট রাখবেন এবং
+                দুই কপি কলেজ কর্তৃপক্ষের নিকট জমা দিবেন। নির্ধারিত পোশাকের চেয়ে কম পোশাক নিয়ে এলে ছাত্রকে হাউসে গ্রহণ
+                করা হবে না।
+                পোশাকের স্বল্পতা হেতু কোনো ছাত্রকে যদি গৃহে ফেরত পাঠানো হয় তার দায়-দায়িত্ব অভিভাবককেই গ্রহণ করতে হবে।
+                নির্ধারিত তালিকার
+                বাইরে কোনো পোশাক ছাত্রদেরকে দেয়া যাবে না।</p>
+
+        </details>
+        <details>
+            <summary>Job</summary>
+            <div class="appointment-form-container">
+                <h2>Book an Appointment</h2>
+                <from id="appointment-form">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required><br />
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required><br />
+                    <label for="phone">Phone Number:</label>
+                    <input type="tel" id="phone" name="phone" required><br />
+                    <label for="date">Date:</label>
+                    <input type="date" id="date" name="date" required><br />
+                    <label for="time">Time:</label>
+                    <input type="time" id="time" name="time" required><br />
+
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message"></textarea><br />
+                    <button type="submit">Book Application</button>
+                </from>
+            </div>
+        </details>
+    </details>
+    &nbsp;
+    <details>
+        <summary>Admission</summary>
+        <details>
+            <summary>Addmission Circle</summary>
+            <p>No Circular Availabe for this time.When Any Notice come then we will publised in here.</p>
+        </details>
+    </details>
+    &nbsp;
+    <details>
+        <summary>Club</summary>
+        <details>
+            <summary>Science Club</summary>
+            <b>
+                <p>Introduction:
+            </b>
+            "The Science of today is the technology of tomorrow” ~Edward Teller
+
+            Dhaka Residential Model College Science Club is a knowledge hub focalized by the students which was
+            founded in 2008 with
+            an auspicious aim of spreading and raising consciousness about the infinite applications of science
+            among the pupils.
+            The devoted students enthusiastic regarding science are the respective members and executives working
+            tirelessly for the
+            betterment of the organization under our respective institution.
+
+            Moderator: Muhammad Mustafizur Rahman, Assistant Professor, Zoology.</p>
+            <b>
+                <p>Objectives:
+            </b>
+
+            The core focuses of the club are;
+            • To provide proper incentive and inspiration for the pursuit of scientific knowledge in vigorous ways
+            by broadening
+            their scientific outlook.
+            • To provide opportunities for bringing other schools and colleges and other Science Clubs close to the
+            society and
+            acquaint the people with the services and contributions of science.
+            • To provide opportunity for the development of constructive, exploratory and inventive faculties of the
+            students.
+            • To create interest in latest inventions and discoveries of science in various fields and to get
+            acquainted
+            with the life history and contributions of great scientists.
+            •To create scientific facts and events according to one’s surroundings.
+            •To organize an inter school and college science carnival every year.
+            •To discuss about interesting topics, quizzes and Olympiads and practice them.</p>
+
+            <b>
+                <p>Activities:
+            </b>
+
+            The club accomplishes its objectives through various activities and pupil participation events
+            throughout the year, as
+            such;
+
+            • Regular discussions with club members regarding various projects.
+            • Scientific competitions.
+            • Workshops on various science related subjects. Especially regarding quizzes and Olympiads.
+            • Guest lectures from renowned researchers and learned persons.</p>
+        </details>
+        <details>
+            <summary>IT Club</summary>
+            <b>
+                <p>Introduction:
+            </b>
+
+            Deep within the confines of Dhaka Residential Model College, Bangladesh, lies the DRMC IT Club, a haven for
+            the
+            brightest young minds with a passion for technology and innovation. Founded in 2017 by driven students, this
+            club is a
+            platform for members to unleash their creativity and delve into the endless possibilities of the tech world.
+            With a
+            mission to inspire and motivate, the DRMC IT Club empowers its members to push boundaries and explore the
+            ever-evolving
+            landscape of the digital realm.</p>
+
+            <b>
+                <p>Chief Club Coordinator, Moderator, and Member Secretary:
+            </b>
+
+            At the helm of this organisation is the brilliant Mohammad Nurun Nabi, Associate Professor and Chief Club
+            Coordinator.
+            Assisting him in guiding the club's activities are the ever-insightful Rasel Ahmed and Md. Asique Iqbal,
+            both esteemed
+            Lecturers serving as Moderator and Member Secretary, respectively.</p>
+
+            <b>
+                <p>Objectives:
+            </b>
+
+            The DRMC IT Club aims to achieve the following objectives:
+
+            · Foster a community of individuals passionate about technology and innovation
+
+            · Encourage creativity and exploration of new ideas
+
+            · Develop technical skills and knowledge
+
+            · Provide opportunities for personal and professional growth
+
+            · Encourage teamwork and collaboration</p>
+            <b>
+                <p>Activities:
+            </b>
+
+            The DRMC IT Club regularly organises a range of activities to engage its members, including:
+
+            · Workshops on coding, web development, and other technical skills
+
+            · Tech talks and seminars by industry experts
+
+            · Hackathons and coding competitions
+
+            · Project showcases and exhibitions
+
+            · Social events to encourage networking and collaboration</p>
+        </details>
+
+        <details>
+            <summary>Photography Club</summary>
+            <b>
+                <p>Introduction:
+            </b>
+
+            The DRMC Photography Club is a prestigious and prosperous club at DRMC that has become a significant outlet
+            for
+            creativity for students all over the country since its birth in 2014. The club's dedicated executives, panel
+            members,
+            and volunteers have shown excellent dedication, helping to expose photography and amuse the world with the
+            innovative
+            talents of both pro and newbie photographers from their college.</p>
+
+            <b>
+                <p>Moderators:
+            </b>
+
+            The Chief Club Coordinator of the DRMC Photography Club is Mohammad NurunNabi, an Associate
+            Professor, and Khandker
+            Azimul Haque, a Lecturer, serves as a Moderator.</p>
+
+            <b>
+                <p>Moderators:
+            </b>
+
+            The Chief Club Coordinator of the DRMC Photography Club is Mohammad NurunNabi, an Associate Professor,
+            and Khandker
+            Azimul Haque, a Lecturer, serves as a Moderator.
+
+            <b>
+                <p> Objectives:
+            </b>
+
+            The DRMC Photography Club aims to achieve the following objectives:
+
+            • To create a photography-minded environment for participants to blend in and learn about the world
+            of photography
+            actively.
+
+            • To provide opportunities for recognition and awards to inspire members.
+
+            • To raise members' photography skills through meetings, workshops, and fests.
+
+            • To encourage leadership among members.</p>
+
+            <b>
+                <p> Activities:
+            </b>
+
+            The DRMC Photography Club engages in the following activities:
+
+            • Covering college events and programs through photography and promoting them on their communication
+            media.
+
+            • Recording club meetings, workshops, and fests through photography.
+
+            • Being active during emergencies that require photography.
+
+            • Producing promo materials for the club or upcoming events through cinematography and graphics.
+
+            • Conducting weekly club meetings, monthly workshops, and yearly fests to teach members the skills
+            and responsibilities
+            of professional photographers.
+
+            • Appointing a captain among members weekly to encourage leadership.</p>
+
+        </details>
+    </details>
+    &nbsp;
+    <details>
+        <summary>Facilities</summary>
+        <details>
+            <summary>Medical</summary>
+            <b>
+                <p>কর্মকর্তা:
+            </b>
+
+            মো: শফিকুল ইসলাম--
+
+            মেডিকেল অফিসার--
+
+            মোবাইল: 01711972140</p>
+
+            <b>
+                <p>কর্মচারী
+            </b>
+            মো: গোলাম মোস্তফা--
+
+            সিনিয়র মেডিকেল অ্যাসিসটেন্ট--
+
+            মোবাইল: 01985164739</p>
+        </details>
+
+        <details>
+            <summary>Hostel</summary>
+            <li>Dr. Mohammad Qudrat-E-Khuda House</li>
+            <li>Kobi Jasimuddin House</li>
+            <li>Lalon Shah House</li>
+        </details>
+
+        <details>
+            <summary>Labratories</summary>
+            <li>ICT Lab</li>
+            <li>Physics Lab</li>
+            <li>Chemistry Lab</li>
+            <li>Biology Lab</li>
+            <li>Geography</li>
+        </details>
+    </details>
+    <ol>
+        <h2 style="color:chocolate;font-family:cachin">Log in</h2>
+        <form action="login_scritp.php" method="post">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <lable for="password">password:</lable>
+            <input type="password" id="password" name="password"><br><br>
+            <input type="submit" value="login">
+        </form>
+
+    </ol>
+
+    <h5>Dhaka Residential Model College</h5>
+    <li>Mohammadpur,Dhaka</li>
+    <li>Phone:+882058153774</li>
+    <li>Email: demc_bd@yahoo.com</li>
+
+
+
+
+
+    <h4>God Gift Power .Just use it properly</h4>
+
+    &copy;Copyright All Rights Reserved. Dhaka Residential Model College
+
+    <li> &copy; Creating from: Talukdar IT</li>
+    <li> Create and Developed by MD:Imran Hasan</li>
+    <li> Softower Engineer & Fullstruck Developer</li>
+    <li>Bsc in CSE - Prime University;</li>
+</body>
+
+</html>
