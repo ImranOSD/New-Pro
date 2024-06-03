@@ -1,0 +1,237 @@
+<html>
+
+<head>
+    <title>new project</title>
+</head>
+
+<body style="background-color:lightblue">
+    <h1 style="color:red; font-size:50x; font-family:verdana">Master Paribahan</h1>
+    <h2>All time perfect</h2>
+    <ol>
+        <details>
+            <summary>Who We are</summary>
+
+            <p>Master Paribahan is countris largest Transport service . We have more then 200 bus . Every day we
+                improving our service to adding new bus . thanks for stay with us</p>
+
+            <details>
+                <summary>Brand collabration</summary>
+                <p>We collabration verious companys like Hino,Isuzu,Mitsubisi,Mercidies Banz,Higer and Eicher bus
+                    companeys</p>
+            </details>
+            <details>
+                <summary>Our Distribution Company</summary>
+                <p>Talukdar Imports</p>
+            </details>
+
+        </details>
+        &nbsp;
+        <details>
+            <summary>About</summary>
+            <p>We are The best</p>
+            <details>
+                <summary>Owner</summary>
+                <p>MD.Imran Hasan Talukdar</p>
+            </details>
+            <details>
+                <summary>CEO</summary>
+                <p>MD.Shafiqul Islam Talukdar</p>
+            </details>
+        </details>
+        &nbsp;
+        <details>
+
+            <summary>Our Vehicals</summary>
+            <details>
+                <summary>Hino Ak1j</summary>
+                <img src="hi06.jpeg" width="300">
+            </details>
+            <details>
+                <summary>Isuzu ftr</summary>
+                <img src="ft05.png" width="300">
+            </details>
+            <details>
+                <summary>Mitsubisi Fuso Bm11</summary>
+                <img src="mit03.jpg" width="300">
+            </details>
+            <details>
+                <summary>mercidies Banz ch12</summary>
+                <img src="mer.02.jpg" width="300">
+            </details>
+            <details>
+                <summary>Higer h12</summary>
+                <img src="hi01.jpg" width="300">
+            </details>
+            <details>
+                <summary>Eicher euro</summary>
+                <img src="ei04.webp" width="300">
+            </details>
+        </details>
+        &nbsp;
+        <details>
+            <summary>Our Rutes</summary>
+            <pre style="color:rgb(3, 11, 48); font-family:cursive">
+                    Dhaka-Rajshahi
+                    Dhaka-Chapai 
+                    Dhaka-Rangpur 
+                    Dhaka-Pabna 
+                    Dhaka-sirajgong 
+                    Dhaka-chattagram 
+                    Dhaka-Khulna 
+                    Dhaka-Cox bazar 
+                    Dhaka-Dinajpur 
+                    Dhaka-Bandarban 
+                    Dhaka-Kolkata 
+                    Dhaka-Phanchagor
+                    Dhaka-Jashor 
+                    Dhaka-maymanshing 
+                    Pabna-Rajshahi 
+                    </pre>
+        </details>
+        &nbsp;
+        <details>
+            <summary>Ticket Price</summary>
+            <table border="2" width="300" height="200">
+                <thead>
+                    <tr>
+                        <th>To - From</th>
+                        <th>Time</th>
+                        <th>Fair</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Dhaka-Rajshahi</td>
+                        <td>6.00 am</td>
+                        <td>800</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Chapai</td>
+                        <td>6.20 am</td>
+                        <td>900</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Rangpur</td>
+                        <td>6.30 am</td>
+                        <td>800</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Pabna</td>
+                        <td>6.35 am</td>
+                        <td>500</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-sirajgong</td>
+                        <td>6.40 am</td>
+                        <td>400</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Chittagong</td>
+                        <td>6.50 am</td>
+                        <td>1500(ac)</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Khulna</td>
+                        <td>7.00 am</td>
+                        <td>1000</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Cox Bazar</td>
+                        <td>12 pm</td>
+                        <td>2500(sleeper)</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Dinajpur</td>
+                        <td>8.00 am</td>
+                        <td>700</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Bandarban</td>
+                        <td>6.00 pm</td>
+                        <td>1300</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-KOlkata</td>
+                        <td>10.00 pm</td>
+                        <td>1800(ac)</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Panchagar</td>
+                        <td>9.00 am</td>
+                        <td>1000</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Jashor</td>
+                        <td>10.00 am</td>
+                        <td>600</td>
+                    </tr>
+                    <tr>
+                        <td>Dhaka-Maymanshing</td>
+                        <td>11.00 am</td>
+                        <td>500</td>
+                    </tr>
+                    <tr>
+                        <td>Pabna-Rajshahi</td>
+                        <td>6.00 am</td>
+                        <td>400</td>
+                    </tr>
+                    <h3>All Bus From Outside of Dhaka are start there jurney at the same time</h3>
+                </tbody>
+            </table>
+        </details>
+        &nbsp;
+        <details>
+            <summary>Careers</summary>
+            <p>For job application </p>
+            <details>
+                <summary>Appointment Form</summary>
+                <div class="appointment-form-container">
+                    <h2>Book an Appointment</h2>
+                    <from id="appointment-form">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required><br />
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required><br />
+                        <label for="phone">Phone Number:</label>
+                        <input type="tel" id="phone" name="phone" required><br />
+                        <label for="date">Date:</label>
+                        <input type="date" id="date" name="date" required><br />
+                        <label for="time">Time:</label>
+                        <input type="time" id="time" name="time" required><br />
+
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message"></textarea><br />
+                        <button type="submit">Book Application</button>
+                    </from>
+                </div>
+            </details>
+        </details>
+
+        <h2 style="color:chocolate;font-family:cachin">Log in</h2>
+        <form action="login_scritp.php" method="post">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <lable for="password">password:</lable>
+            <input type="password" id="password" name="password"><br><br>
+            <input type="submit" value="login">
+        </form>
+        <a href="https://www.facebook.com/profile.php?id=100069514873526" target="_blank">
+            <img src="path/to/facebook.svg" alt="Facebook Icon">
+        </a>
+
+    </ol>
+    <i><u>
+            <h3 style="color:rgb(17, 0, 252)">Thank you for visiting Us.God Blass you </h3>
+        </u></i>
+
+
+    &copy;Copyright 2024 Talukdar Motors.
+    <pre>
+            &copy; creator:Imran Hasan
+            <img src="3030.jpeg" width="50">
+             Softower Engineear/Developer
+          Bsc in cse:Prime University
+                          </pre>
+                          </body>
+                          </html>
+                          
